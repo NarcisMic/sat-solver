@@ -27,5 +27,5 @@ Requires a C++11-compatible compiler.
 
 Example build and execution:
 ```bash
-g++ dpll_cdcl.cpp -o dpll_cdcl
-./dpll_cdcl example.cnf
+g++ dp.cpp -o dp
+./dpll_cdcl example.txt
